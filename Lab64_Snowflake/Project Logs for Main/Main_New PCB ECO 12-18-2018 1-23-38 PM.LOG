@@ -1,0 +1,103 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=PB03
+Change Component Designator: OldDesignator=*2 NewDesignator=PB02
+Change Component Designator: OldDesignator=*3 NewDesignator=PA28
+Change Component Designator: OldDesignator=*4 NewDesignator=PA27
+Change Component Designator: OldDesignator=*5 NewDesignator=PB23
+Change Component Designator: OldDesignator=*6 NewDesignator=PB22
+Change Component Designator: OldDesignator=*7 NewDesignator=PA02
+Change Component Designator: OldDesignator=*8 NewDesignator=PA03
+Change Component Designator: OldDesignator=*9 NewDesignator=PA23
+Change Component Designator: OldDesignator=*10 NewDesignator=PA15
+Change Component Designator: OldDesignator=*11 NewDesignator=PA14
+Change Component Designator: OldDesignator=*12 NewDesignator=J12
+Change Component Designator: OldDesignator=* NewDesignator=PRG_3.3
+Change Component Designator: OldDesignator=* NewDesignator=PRG_GND
+Change Component Designator: OldDesignator=* NewDesignator=PRG_RST
+Change Component Designator: OldDesignator=* NewDesignator=PRG_SWCLK
+Change Component Designator: OldDesignator=* NewDesignator=PRG_SWDIO
+Change component parameters: Designator = "R1"; Footprint = "R0603"; UniqueID = "\CXEFWBHO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0603-(1608-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-1784-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R0603"; UniqueID = "\RFLTADCY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0603-(1608-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "R0603"; UniqueID = "\DKINVICQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0603-(1608-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "R0603"; UniqueID = "\WPJIAQWE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0603-(1608-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "R0603"; UniqueID = "\JTRKRULD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0603-(1608-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071ML"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1 M?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "1000000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00MHRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net*1_1 New Net Name=NetPB03_1
+Change Net Name : Old Net Name=Net*2_1 New Net Name=NetPB02_1
+Change Net Name : Old Net Name=Net*3_1 New Net Name=NetPA28_1
+Change Net Name : Old Net Name=Net*4_1 New Net Name=NetPA27_1
+Change Net Name : Old Net Name=Net*5_1 New Net Name=NetPB23_1
+Change Net Name : Old Net Name=Net*6_1 New Net Name=NetPB22_1
+Change Net Name : Old Net Name=Net*7_1 New Net Name=NetPA02_1
+Change Net Name : Old Net Name=Net*8_1 New Net Name=NetPA03_1
+Change Net Name : Old Net Name=Net*9_1 New Net Name=NetPA23_1
+Change Net Name : Old Net Name=Net*10_1 New Net Name=NetPA15_1
+Change Net Name : Old Net Name=Net*11_1 New Net Name=NetPA14_1
+Change Net Name : Old Net Name=Net*12_2 New Net Name=NetC13_2
+Added Member To Class: ClassName=Main Member=Component PRG_3.3 EWOD_PAD
+Added Member To Class: ClassName=Main Member=Component PRG_GND EWOD_PAD
+Added Member To Class: ClassName=Main Member=Component PRG_SWCLK EWOD_PAD
+Added Member To Class: ClassName=Main Member=Component PRG_SWDIO EWOD_PAD
